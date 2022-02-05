@@ -2,6 +2,9 @@
 
 This is from tindie: https://www.tindie.com/products/petl/esp32-wroom-pogo-pin-programmer-board/
 
+
+<img src='https://github.com/petl/ESP32_wroom_pogo_pin_programmer/blob/main/photos/IMG_20220205_232909.jpg' width='100%'>
+
 The USB ESP32 WROOM programmer can flash ESP-WROOM-32 modules in circuit without having to desolder them first. It features 37 pointy pogo pins to be directly pressed onto the ESP. 
 
 You can connect a USB C cable (not included) to it and use Arduino IDE, PlatformIO or others to upload code. It features a RESET circuit similar to nodeMCU so you can upload without having to press a button. IO0 and RESET are still routed to buttons, so the ESP can quickly be reset or put into programming mode manually if needed. 
