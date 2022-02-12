@@ -1,4 +1,4 @@
-# ESP32_wroom_pogo_pin_programmer
+# pogo pin programmer ESP32 WROOM 
 
 This is from tindie: https://www.tindie.com/products/petl/esp32-wroom-pogo-pin-programmer-board/
 
